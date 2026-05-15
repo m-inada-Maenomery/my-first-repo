@@ -1,3 +1,7 @@
 Hello Git!
 hello from feature
+<<<<<<< HEAD
 hello hello2Hello world
+=======
+hello hello2こんにちは
+>>>>>>> 0580e7c (add hello)
